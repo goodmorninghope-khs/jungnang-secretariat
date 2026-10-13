@@ -1,0 +1,13 @@
+interface:
+  display_name: 중랑비서실
+  short_description: PI 총괄 기획·실행을 MSAVN(C)로 연결하는 중랑비서실
+  default_prompt: $jungnang-secretariat으로 이번 의제의 PI 공동기획안부터 역할별 실행·확인·학습까지 진행해 주세요.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
