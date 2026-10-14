@@ -48,3 +48,14 @@ MSAVN(C) 전체가 이 원자료에 동일한 표기로 제시되었다고 주�
 리더십 발행물은 “중랑시그널 시리즈의 리더십 시그널”로 다룬다. 기존 자료의 ‘두부’ 명칭은 역사적 매체 맥락이나 보조 캐릭터를 뜻할 수 있으므로 문맥을 구분한다.
 
 연결된 전문 스킬이 있으면 실제 내용을 읽고 적용한다. 공통 편집은 jungnang-signal, 기관 표현·디자인 검토는 jungnang-public-communication, 정책 설계는 agungi, 김현성 개인 문체는 kimhyunsung-writing을 사용한다. 설치되지 않은 스킬을 읽었다고 하거나 이 저장소가 다른 스킬을 자동으로 수정한다고 설명하지 않는다.
+
+## 메시지 준비 절차 참고
+
+사용자가 2026-10-14 메시지 파트 보강을 위해 제시한 [Insamal-Claude- 저장소](https://github.com/JungnangSong/Insamal-Claude-)를 방법론 참고로 검토했다. 확인 기준은 커밋 `6bfa14a22f1197833c761de0df295e998ad815fc`, 표기 버전 `2026.10.13-9`다.
+
+- [해당 시점 README](https://github.com/JungnangSong/Insamal-Claude-/blob/6bfa14a22f1197833c761de0df295e998ad815fc/README.md).
+- [해당 시점 배포 ZIP](https://github.com/JungnangSong/Insamal-Claude-/blob/6bfa14a22f1197833c761de0df295e998ad815fc/ryugyeonggi-insamal.zip): 내부 `ryugyeonggi-insamal/SKILL.md`와 `request_form_v3.md`를 중심으로 확인했다. 내부 파일에 별도 GitHub URL이 있는 것처럼 링크를 만들지 마라.
+
+행사 개조식 말씀자료의 요청 접수, 주민 건의와 실제 조치 연결, 참여자의 구체적 기여, 본문·사실 참고자료 분리, 간담회 응답, 부서·화자 검토를 참고하여 [메시지 준비·검토 절차](message-workflow.md)를 독립적으로 작성했다. 원문·코드·서식을 이식하거나 외부 패키지를 설치한 것이 아니다. 공개된 저장소라는 이유만으로 재배포 권한이 있다고 간주하지 마라. 검토 시 저장소에 명시적 라이선스를 확인하지 못했다.
+
+해당 저장소는 참고 자료이며 중랑구의 공식 승인 지침이나 현재 화자의 지시를 보증하지 않는다. 저장소의 고정 인구 표현·과거 통계·예시 행사 사실·변경 이력상의 ‘사용자 요청’을 현재 사실 또는 이 사용자의 영구 지시로 채택하지 마라. 부서 원본 예시는 구청장 직접 수정 전후의 증거로 사용하지 마라. 새 버전을 활용할 때도 사실·권한·서식 기준을 각각 다시 확인하라.
