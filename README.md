@@ -54,3 +54,13 @@ GitHub에 올리는 것만으로 Claude·GPT 등 각 도구에 설치되거나 �
 연계 전문 스킬은 별도로 준비해야 합니다. 이 저장소가 다른 스킬이나 기존 발행물을 자동 변경하지 않습니다.
 
 별도 라이선스는 지정하지 않았습니다.
+
+## 연계 (밸류체인)
+
+이 저장소는 [policy-media-desk](https://github.com/goodmorninghope-khs/policy-media-desk) 밸류체인의 **④ 정책화** 고리다. 상태: 제안 (발행인 확인 후 실제로 이으면 '연계'로 바꾼다).
+
+- 받음: 공약에 닿는 신호·JUNGNANG Q → PI 공동 기획(MSAVN)의 의제·메시지 후보
+- 넘김: 리더십 시그널·주요 의제 → 정책 미디어 촉 고르기의 '구정 주요 사항'
+- 넘길 때는 출처 지면(지면명·호수·날짜·링크)과 '닿는 공약'을 붙이고, 침은 의견으로 남긴다. 결정은 받는 고리의 책임자가 한다.
+
+전체 사슬: [references/value-chain.md](https://github.com/goodmorninghope-khs/policy-media-desk/blob/main/references/value-chain.md)
